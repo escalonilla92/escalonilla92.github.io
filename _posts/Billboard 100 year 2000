@@ -6,7 +6,7 @@ layout: default
   <h1>{{ Billboard 2000 }}</h1>
 
   <div class="entry">
-    {{ content }}
+    {{ Billboard 2000 }}
   </div>
 
   <div class="date">
